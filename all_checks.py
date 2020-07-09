@@ -27,6 +27,7 @@ def main():
         print("Disk full.")
         sys.exit(1)
     print("Everything ok.")
+    print("file updated.")
     sys.exit(0)
 
 
