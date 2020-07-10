@@ -49,6 +49,7 @@ def main():
 
     print("Everything ok.")
     print("file updated.")
+    print("file updated again")
     sys.exit(0)
 
 
